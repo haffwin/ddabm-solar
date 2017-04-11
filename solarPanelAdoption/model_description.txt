@@ -1,0 +1,13 @@
+Hello, prospective user,
+This is an agent-based roof-top solar diffusion model in a ZIP code area of San Diego county, CA. The model is implemented in Java on Repast Simphony simulation platform (http://repast.sourceforge.net/). It is originally developed to forecast individual and aggregate solar adoption in San Diego county. In particular, the model itself consists of several component models, such as, solar system capacity model, system cost(buy/lease) model, electricity consumption model and adoption decision model etc. Notably, all these models are learned from empirical data using the state-of-the-art machine learning techniques, followed by our proposed data-driven agent-based modeling (DDABM) method. The implementation also includes functions, such as, model sensitivity analysis to incentive budget, one-parameter incentive optimization and seeding policy optimization. For more details about our DDABM and policy optimization, please refer to the following publication:
+Haifeng Zhang, Yevgeniy Vorobeychik, Joshua Letchford, and Kiran Lakkaraju. Data-Driven Agent-Based Modeling, with Application to Rooftop Solar Adoption. In AAMAS-15: Proc. 13th Intl. Joint Conference on Autonomous Agents and Multiagent Systems, 2015.
+Finally, please feel free to leave comments, or contact the author if you have any questions. Enjoy the beauty of ABM!!!
+
+Haifeng Zhang
+Computational Economics Laboratory
+EECS, Vanderbilt University
+haifeng.zhang@vanderbilt.edu
+
+
+
+

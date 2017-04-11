@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<sweep runs="50">
+ <parameter name="xBgtNewIncentive" type="constant" constant_type="double" value="1.0"/>
+ <parameter name="seedingMonth" type="constant" constant_type="double" value="-1.0"/>
+ <parameter name="seedingPlan" type="constant" constant_type="java.lang.String" value="65,0.25;66,0.25;67,0.25;68,0.25"/>
+ <parameter name="seedBudgetMultiplier" type="constant" constant_type="double" value="8"/>
+ <parameter name="budgeAdjAllSteps" type="constant" constant_type="double" value="1"/>
+ <parameter name="fromMonth" type="constant" constant_type="int" value="45"/>
+ <parameter name="p_Markov" type="constant" constant_type="double" value="1.0"/>
+ <parameter name="h_Markov" type="constant" constant_type="int" value="0"/>
+ <parameter name="incentiveSerNo" type="number" number_type="double" start="0" end="0" step="1"/>
+</sweep>

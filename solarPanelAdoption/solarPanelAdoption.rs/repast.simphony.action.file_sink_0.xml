@@ -1,0 +1,21 @@
+<repast.simphony.data2.engine.FileSinkDescriptor>
+  <name>Run Output</name>
+  <dataSet>A Data Set</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>tick</string>
+    <string>numAdopt</string>
+    <string>deviance</string>
+    <string>remainBgt</string>
+    <string>captured</string>
+    <string>seeded</string>
+    <string>systemCost</string>
+    <string>realAdopt</string>
+    <string>IctSerNo</string>
+    <string>nullDev</string>
+    <string>rate</string>
+  </sourceIds>
+  <fileName>/home/local/VANDERBILT/zhangh24/code-release/solarPanelAdoption/output/ModelOutput.csv</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>
